@@ -1,7 +1,7 @@
 ### 👋 Hi there
-My name is Meik, and I was born 51 years ago in a small town in Germany. At the age of 26, I decided to embark on an adventure, learn a new language and culture, and moved to Portugal. Initially, the plan was for two years, but after 25 years, I'm still here, now adventuring together with my wife our daughter.
+My name is Meik, Senior iOS Engineer with 10+ years building production mobile apps in Swift. My work has shipped in apps used by millions of users across industries including healthcare, betting and retail. I’m particularly interested in scalable architectures, modularisation and modern Swift technologies such as SwiftUI and The Composable Architecture.
 
-I've been coding since I was 14 years old, and I can confidently say that I still truly love what I do - finding pragmatic and elegant solutions to technical challenges. For most of these years, I've been involved in building platforms for ERP solutions (10 years). In 2008, I started developing iOS applications for a wide range of businesses.
+Currently working on mobile platforms at Remote.com.
 
 ### 🔧 Technologies & Tools 
 <table border="0">
@@ -19,7 +19,7 @@ I've been coding since I was 14 years old, and I can confidently say that I stil
   </tr>
   <tr>
     <td>Cloud Services</td>
-    <td>Firebase, Github</td>
+    <td>AWS, Firebase, Github</td>
   </tr>
   <tr>
     <td>Automation</td>
@@ -29,6 +29,14 @@ I've been coding since I was 14 years old, and I can confidently say that I stil
 
 ### 🎨 Projects I worked on
 <table border="0">
+  <tr>
+    <td>Remote.com</td>
+    <td>Business</td>
+    <td>
+      <a href="https://apps.apple.com/us/app/remote-global-hr/id1613496903">App Store</a>&nbsp;
+      <a href="https://play.google.com/store/apps/details?id=com.remote.employ">Google Play</a>
+    </td>
+  </tr>
   <tr>
     <td>Viz.ai</td>
     <td>Health</td>
